@@ -35,3 +35,5 @@ C:\dotnetproject\firstapp\obj\Debug\netcoreapp3.1\firstapp.dll
 C:\dotnetproject\firstapp\obj\Debug\netcoreapp3.1\firstapp.pdb
 C:\dotnetproject\firstapp\obj\Debug\netcoreapp3.1\firstapp.genruntimeconfig.cache
 C:\dotnetproject\firstapp\obj\Debug\netcoreapp3.1\firstapp.csproj.CopyComplete
+C:\dotnetproject\firstapp\obj\Debug\netcoreapp3.1\Razor\Views\Book\GetAllBooks.cshtml.g.cs
+C:\dotnetproject\firstapp\obj\Debug\netcoreapp3.1\Razor\Views\Book\index.cshtml.g.cs
